@@ -43,15 +43,20 @@ StudyBuddy/
 Make sure you have installed:
 
 Node.js
+
 MongoDB
+
 Git
 🧭 Installation Steps
+
 1️⃣ Clone Repository
 git clone https://github.com/YOUR_USERNAME/StudyBuddy.git
+
 cd StudyBuddy
 2️⃣ Install Dependencies
 cd backend
 npm install
+
 3️⃣ Setup Environment Variables
 
 Create a .env file inside backend and add:
@@ -61,5 +66,9 @@ JWT_SECRET=your_secret_key
 PORT=5000
 
 4️⃣ Run the Project
+
 cd backend
 npm run dev
+
+cd frontend
+npm start
