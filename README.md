@@ -26,19 +26,6 @@ Backend	   Node.js, Express.js
 Database	 MongoDB
 Authentication	JWT
 
-📁 Project Structure
-
-StudyBuddy/
-│
-├── backend/
-│   ├── config/          # Database configuration
-│   ├── controller/      # Business logic
-│   ├── middleware/      # Authentication middleware
-│   ├── models/          # MongoDB models
-│   ├── server.js        # Entry point
-│   └── .env             # Environment variables
-⚙️ Getting Started
-✅ Prerequisites
 
 Make sure you have installed:
 
@@ -52,8 +39,8 @@ Git
 1️⃣ Clone Repository
 git clone https://github.com/YOUR_USERNAME/StudyBuddy.git
 
-cd StudyBuddy
 2️⃣ Install Dependencies
+
 cd backend
 npm install
 
