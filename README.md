@@ -1,4 +1,5 @@
 🤖 StudyBuddy - Smart Study Management System
+
 📖 Overview
 
 StudyBuddy is a full-stack web application designed to help students efficiently manage their studies using intelligent planning and tracking features.
