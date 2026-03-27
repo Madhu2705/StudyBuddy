@@ -9,10 +9,13 @@ Built with the MERN Stack (MongoDB, Express.js, React.js, Node.js), the platform
 It aims to improve productivity through structured planning and smart organization.
 
 🚀 Key Features
+
 🔐 User Authentication
 Secure login/signup system using JWT.
+
 📚 Study Plan Management
 Create and manage personalized study plans.
+
 📝 Notes Management
 Add, update, and delete study notes.
 
@@ -24,6 +27,7 @@ Database	 MongoDB
 Authentication	JWT
 
 📁 Project Structure
+
 StudyBuddy/
 │
 ├── backend/
